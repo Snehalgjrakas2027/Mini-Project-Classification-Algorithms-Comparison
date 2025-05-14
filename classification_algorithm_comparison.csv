@@ -1,0 +1,7 @@
+Algorithm,Recall,Precision,F1-Score,Accuracy
+Logistic Regression,0.95,0.96,0.95,0.95
+Naive Bayes,0.93,0.94,0.93,0.93
+K-Nearest Neighbors,0.91,0.92,0.91,0.91
+Decision Tree,0.92,0.93,0.92,0.92
+Random Forest,0.96,0.97,0.96,0.96
+K-Means (Clustering),0.8,0.81,0.8,0.8
